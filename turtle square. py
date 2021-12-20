@@ -1,0 +1,13 @@
+import turtle
+t=turtle.Turtle() 
+t.shapesize(5,5,5)
+t.pencolor("green")
+t.pensize(30)
+t.right(90)
+t.forward(200)
+t.right(90)
+t.forward(200)
+t.right(90)
+t.forward(200)
+t.right(90)
+t.forward(200)
